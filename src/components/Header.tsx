@@ -9,7 +9,7 @@ const Header = () => {
     <header className="bg-zinc-900 text-gray-200 shadow-lg">
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         <div className="text-xl font-bold tracking-wide text-gray-100">
-          <Link href="/" >Next.js CRUD</Link>
+          <Link href="/" >Next.js Teste</Link>
         </div>
 
         <nav className="hidden md:flex space-x-6">
